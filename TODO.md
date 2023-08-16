@@ -1,0 +1,3 @@
+- Setup basic linter config
+- Setup basic unit tests config
+- Add crappy readme
